@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Steffen Andre Pettersen
+- I'm currently taking a bachelor in informatics, focusing on cyber security.
+- 👀 I’m interested in board gaming, music, frisbee golf and coding
+- 🌱 I’m currently learning python and java
+- 📫 You can reach me on discord at stanpe#2382, or by mail at stanpe@hotmail.no
